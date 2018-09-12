@@ -1,16 +1,21 @@
 _repo: Nothing-But-the-Best_51136
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Cal
     gutenberg_agent_id: '48666'
     url: http://www.gutenberg.org/2009/agents/48666
+covers:
+- cover_type: archival
+  image_path: 51136-h/images/cover.jpg
 creator:
   author:
     agent_name: Cogan, Alan
     gutenberg_agent_id: '36077'
     url: http://www.gutenberg.org/2009/agents/36077
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51136#Nothing-But-the-Best
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-02-06'
 gutenberg_type: Text
